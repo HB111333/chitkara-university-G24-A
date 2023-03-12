@@ -1,4 +1,4 @@
 # chitkara-university-G24-A
 
 
-this is the readme file for the uploaded project 
+this project is " registration form " based on python ...... 
